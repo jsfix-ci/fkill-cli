@@ -47,7 +47,7 @@
 		"esc-exit": "^3.0.0",
 		"fkill": "^8.0.0",
 		"fuzzy-search": "^3.2.1",
-		"inquirer": "^8.2.0",
+		"inquirer": "^9.1.1",
 		"inquirer-autocomplete-prompt": "^1.4.0",
 		"meow": "^10.1.1",
 		"num-sort": "^3.0.0",
